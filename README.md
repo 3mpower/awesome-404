@@ -27,7 +27,8 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Implementations
 - [BT404](https://x.com/bt404_io) - P2P protocol
-- [DN404](https://github.com/Vectorized/dn404) - Standard compliant dual nature token pair
+- [DN404](https://github.com/Vectorized/dn404) - a hybrid ERC20 and ERC721 implementation that mints and burns NFTs based on an account's ERC20 token balance.
+- [DN420](https://github.com/Vectorized/dn404/blob/main/src/DN420.sol) - an ERC20 and ERC1155 chimera implementation that mints and burns NFTs based on an account's ERC20 token balance.
 
 ## License
 
