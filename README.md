@@ -23,6 +23,10 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Underworld](https://x.com/udw_gg) - Main BT404 project
 - [XTREMEVERSE](https://x.com/0xtremeverse) - Web3 Gaming Universe
 - [Velocity Series Season 2 by @Bybit_Official and @redbullracing](https://www.bybit.com/en/promo/nft-events/velocity-pass-V2)
+- [Amaterasu](https://x.com/AmaterasuSekai) - First DN404 & Anime Project on Aptos
+- [Stickiby](https://x.com/stickiby) - The onchain creator economy driven by stickers, powered by DN404, built on Aptos.
+- [Cyberdins](https://x.com/TheCyberdins) - A DN404 PFP collection created by [@PaladinsDao](https://x.com/PaladinsDao) paving the way for Esports and Web3 gaming. Launching on Base.
+- [Final Chapter](https://x.com/finalchapterxyz) - Creator platform powered by DN404 on Story Protocol.
 
 
 ## Implementations
